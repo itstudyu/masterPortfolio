@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "homepage": "https://itstudyu.github.io/masterPortfolio",
 "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 },
